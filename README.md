@@ -7,3 +7,8 @@ also did a calculator program which i have already uoloaded in my repo.
 
 this is my day 02 at python.
 today i learn about some programs and implemented them using vs code.i did the examples and learnt some basic programs. the program contain various logics like factorials,if else conditions and various other explaining programs. also learn about various data types and variables.
+
+
+this is my day 03 at python.
+today i learn about various operators,andoperations perform by operators and how operators used in python.i learn about types of operator how operator perform operations.
+after that by using operators i did simple programs by using the logic of operators. and also build a structural shopping bill generator. and i succesfully uploaded thye programs that i made using visual studio code on git hub as i do previously.
