@@ -12,3 +12,8 @@ today i learn about some programs and implemented them using vs code.i did the e
 this is my day 03 at python.
 today i learn about various operators,andoperations perform by operators and how operators used in python.i learn about types of operator how operator perform operations.
 after that by using operators i did simple programs by using the logic of operators. and also build a structural shopping bill generator. and i succesfully uploaded thye programs that i made using visual studio code on git hub as i do previously.
+
+
+
+this is my day 04 at python.
+tiday i learn about python flow control and also do a program which defines and describes about this. after implementing the code using vs code i succesfully uploaded into my git hub account as i previously do without fail.
