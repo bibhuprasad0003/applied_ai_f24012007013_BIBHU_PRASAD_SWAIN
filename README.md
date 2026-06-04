@@ -17,3 +17,7 @@ after that by using operators i did simple programs by using the logic of operat
 
 this is my day 04 at python.
 tiday i learn about python flow control and also do a program which defines and describes about this.i do check probablity and other programs. after implementing the code using vs code i succesfully uploaded into my git hub account as i previously do without fail.
+
+
+this my day 05 at python.
+today i do some programs using loops and looping statements.and after succesfully implementing them using vs code i uploaded them into git repo as i do before,without any fail.
